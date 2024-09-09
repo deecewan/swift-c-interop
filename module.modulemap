@@ -1,0 +1,5 @@
+module native {
+    header "native.h"
+    link "native"
+    export *
+}
